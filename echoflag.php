@@ -1,5 +1,5 @@
 <?php
-$base = '/'; // 🔐 Racine autorisée (tu peux mettre '.' pour restreindre)
+$base = '.'; // 🔐 Racine autorisée (tu peux mettre '.' pour restreindre)
 
 $path = isset($_GET['path']) ? realpath($_GET['path']) : $base;
 

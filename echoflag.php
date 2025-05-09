@@ -1,4 +1,4 @@
 <body>
-<?php  "Hello, world Sacha!" ?>    
-  
+  <?php echo "Hello, world Sacha!"; ?>
+
 </body>

